@@ -1,0 +1,1707 @@
+[
+	{
+		"word": "عزيزتي",
+		"score": {
+			"freq": 50,
+			"importance": 0
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اوه",
+		"score": {
+			"freq": 7,
+			"importance": 1
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "",
+		"score": {
+			"freq": 10,
+			"importance": 2
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تعلمين",
+		"score": {
+			"freq": 1,
+			"importance": 3
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "انك",
+		"score": {
+			"freq": 8,
+			"importance": 4
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تحبينني",
+		"score": {
+			"freq": 1,
+			"importance": 5
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اعلم",
+		"score": {
+			"freq": 1,
+			"importance": 6
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تهتمين",
+		"score": {
+			"freq": 1,
+			"importance": 7
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "فقط",
+		"score": {
+			"freq": 2,
+			"importance": 8
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اصرخي",
+		"score": {
+			"freq": 1,
+			"importance": 9
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "متى",
+		"score": {
+			"freq": 1,
+			"importance": 10
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "شئتي",
+		"score": {
+			"freq": 1,
+			"importance": 11
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وسأكون",
+		"score": {
+			"freq": 1,
+			"importance": 12
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عندك",
+		"score": {
+			"freq": 1,
+			"importance": 13
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "انتي",
+		"score": {
+			"freq": 2,
+			"importance": 14
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "حبي,",
+		"score": {
+			"freq": 1,
+			"importance": 15
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "قلبي",
+		"score": {
+			"freq": 4,
+			"importance": 16
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وسوف",
+		"score": {
+			"freq": 1,
+			"importance": 17
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لن",
+		"score": {
+			"freq": 2,
+			"importance": 18
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "نتفرق",
+		"score": {
+			"freq": 1,
+			"importance": 19
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ابداً",
+		"score": {
+			"freq": 1,
+			"importance": 20
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "هل",
+		"score": {
+			"freq": 1,
+			"importance": 21
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "نحن",
+		"score": {
+			"freq": 2,
+			"importance": 22
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "شريكان؟",
+		"score": {
+			"freq": 1,
+			"importance": 23
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يابنت",
+		"score": {
+			"freq": 1,
+			"importance": 24
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بطلي",
+		"score": {
+			"freq": 1,
+			"importance": 25
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لعب",
+		"score": {
+			"freq": 1,
+			"importance": 26
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أصحاب",
+		"score": {
+			"freq": 1,
+			"importance": 27
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ما",
+		"score": {
+			"freq": 2,
+			"importance": 28
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الذء",
+		"score": {
+			"freq": 1,
+			"importance": 29
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تقولينه؟",
+		"score": {
+			"freq": 1,
+			"importance": 30
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "قالت",
+		"score": {
+			"freq": 1,
+			"importance": 31
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ان",
+		"score": {
+			"freq": 3,
+			"importance": 32
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "هناك",
+		"score": {
+			"freq": 1,
+			"importance": 33
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "آخر,",
+		"score": {
+			"freq": 1,
+			"importance": 34
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وهي",
+		"score": {
+			"freq": 1,
+			"importance": 35
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تنظر",
+		"score": {
+			"freq": 1,
+			"importance": 36
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "في",
+		"score": {
+			"freq": 4,
+			"importance": 37
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عيناي",
+		"score": {
+			"freq": 1,
+			"importance": 38
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أول",
+		"score": {
+			"freq": 2,
+			"importance": 39
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "حب",
+		"score": {
+			"freq": 3,
+			"importance": 40
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لي",
+		"score": {
+			"freq": 15,
+			"importance": 41
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كسر",
+		"score": {
+			"freq": 1,
+			"importance": 42
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لأول",
+		"score": {
+			"freq": 1,
+			"importance": 43
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "مره",
+		"score": {
+			"freq": 1,
+			"importance": 44
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وأنا",
+		"score": {
+			"freq": 3,
+			"importance": 45
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كنت",
+		"score": {
+			"freq": 18,
+			"importance": 46
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أقول",
+		"score": {
+			"freq": 4,
+			"importance": 47
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اووه",
+		"score": {
+			"freq": 12,
+			"importance": 48
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اقول",
+		"score": {
+			"freq": 6,
+			"importance": 49
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لاا",
+		"score": {
+			"freq": 6,
+			"importance": 50
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عزيزتري",
+		"score": {
+			"freq": 6,
+			"importance": 51
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أظن",
+		"score": {
+			"freq": 6,
+			"importance": 52
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اوه,",
+		"score": {
+			"freq": 1,
+			"importance": 53
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "من",
+		"score": {
+			"freq": 2,
+			"importance": 54
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أجلك,",
+		"score": {
+			"freq": 1,
+			"importance": 55
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "سأفعل",
+		"score": {
+			"freq": 1,
+			"importance": 56
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أي",
+		"score": {
+			"freq": 3,
+			"importance": 57
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "شيء",
+		"score": {
+			"freq": 3,
+			"importance": 58
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ولا",
+		"score": {
+			"freq": 3,
+			"importance": 59
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أستطيع",
+		"score": {
+			"freq": 1,
+			"importance": 60
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "التصديق",
+		"score": {
+			"freq": 2,
+			"importance": 61
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بأننا",
+		"score": {
+			"freq": 1,
+			"importance": 62
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لسنا",
+		"score": {
+			"freq": 1,
+			"importance": 63
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "معاً",
+		"score": {
+			"freq": 1,
+			"importance": 64
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وانا",
+		"score": {
+			"freq": 1,
+			"importance": 65
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اريد",
+		"score": {
+			"freq": 2,
+			"importance": 66
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "امثل",
+		"score": {
+			"freq": 1,
+			"importance": 67
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بأنه",
+		"score": {
+			"freq": 1,
+			"importance": 68
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عادي",
+		"score": {
+			"freq": 1,
+			"importance": 69
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ولكنني",
+		"score": {
+			"freq": 1,
+			"importance": 70
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اخسرك",
+		"score": {
+			"freq": 1,
+			"importance": 71
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "سأشتري",
+		"score": {
+			"freq": 2,
+			"importance": 72
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لك",
+		"score": {
+			"freq": 2,
+			"importance": 73
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "خاتم",
+		"score": {
+			"freq": 1,
+			"importance": 74
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أنا",
+		"score": {
+			"freq": 1,
+			"importance": 75
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "قسمت",
+		"score": {
+			"freq": 1,
+			"importance": 76
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الى",
+		"score": {
+			"freq": 3,
+			"importance": 77
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "قطع,",
+		"score": {
+			"freq": 1,
+			"importance": 78
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اصلحيني",
+		"score": {
+			"freq": 1,
+			"importance": 79
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "وهزيني",
+		"score": {
+			"freq": 1,
+			"importance": 80
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أن",
+		"score": {
+			"freq": 1,
+			"importance": 81
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تقيظيني",
+		"score": {
+			"freq": 1,
+			"importance": 82
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "هذا",
+		"score": {
+			"freq": 1,
+			"importance": 83
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الكابوس",
+		"score": {
+			"freq": 1,
+			"importance": 84
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "انني",
+		"score": {
+			"freq": 1,
+			"importance": 85
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "انزل",
+		"score": {
+			"freq": 1,
+			"importance": 86
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تحت",
+		"score": {
+			"freq": 3,
+			"importance": 87
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "استطيع",
+		"score": {
+			"freq": 2,
+			"importance": 88
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بأن",
+		"score": {
+			"freq": 1,
+			"importance": 89
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يكون",
+		"score": {
+			"freq": 1,
+			"importance": 90
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بجواري",
+		"score": {
+			"freq": 1,
+			"importance": 91
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "مقطع",
+		"score": {
+			"freq": 1,
+			"importance": 92
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الراب:",
+		"score": {
+			"freq": 1,
+			"importance": 93
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عندما",
+		"score": {
+			"freq": 2,
+			"importance": 94
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "13,",
+		"score": {
+			"freq": 1,
+			"importance": 95
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عشت",
+		"score": {
+			"freq": 1,
+			"importance": 96
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اول",
+		"score": {
+			"freq": 1,
+			"importance": 97
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يوجد",
+		"score": {
+			"freq": 1,
+			"importance": 98
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أحد",
+		"score": {
+			"freq": 1,
+			"importance": 99
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "مقارنته",
+		"score": {
+			"freq": 1,
+			"importance": 100
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بصغيرتي",
+		"score": {
+			"freq": 1,
+			"importance": 101
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ولم",
+		"score": {
+			"freq": 1,
+			"importance": 102
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يستطع",
+		"score": {
+			"freq": 1,
+			"importance": 103
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "احد",
+		"score": {
+			"freq": 1,
+			"importance": 104
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يحول",
+		"score": {
+			"freq": 1,
+			"importance": 105
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بيننا",
+		"score": {
+			"freq": 1,
+			"importance": 106
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اصابتني",
+		"score": {
+			"freq": 1,
+			"importance": 107
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بالجنون",
+		"score": {
+			"freq": 1,
+			"importance": 108
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بحبها,",
+		"score": {
+			"freq": 1,
+			"importance": 109
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "مصاب",
+		"score": {
+			"freq": 1,
+			"importance": 110
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "باعجاب",
+		"score": {
+			"freq": 1,
+			"importance": 111
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بها",
+		"score": {
+			"freq": 1,
+			"importance": 112
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كانت",
+		"score": {
+			"freq": 4,
+			"importance": 113
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تلهيني",
+		"score": {
+			"freq": 1,
+			"importance": 114
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عن",
+		"score": {
+			"freq": 1,
+			"importance": 115
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "النوم",
+		"score": {
+			"freq": 1,
+			"importance": 116
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يومياً",
+		"score": {
+			"freq": 1,
+			"importance": 117
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لم",
+		"score": {
+			"freq": 1,
+			"importance": 118
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أكن",
+		"score": {
+			"freq": 1,
+			"importance": 119
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "أحتاج",
+		"score": {
+			"freq": 1,
+			"importance": 120
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "قهوة",
+		"score": {
+			"freq": 1,
+			"importance": 121
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تجعل",
+		"score": {
+			"freq": 1,
+			"importance": 122
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ينبض",
+		"score": {
+			"freq": 1,
+			"importance": 123
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ويفوت",
+		"score": {
+			"freq": 1,
+			"importance": 124
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "نبضة",
+		"score": {
+			"freq": 1,
+			"importance": 125
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اراها",
+		"score": {
+			"freq": 1,
+			"importance": 126
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الشارع",
+		"score": {
+			"freq": 1,
+			"importance": 127
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "او",
+		"score": {
+			"freq": 1,
+			"importance": 128
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ساحة",
+		"score": {
+			"freq": 1,
+			"importance": 129
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "المدرسة",
+		"score": {
+			"freq": 1,
+			"importance": 130
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ولكن",
+		"score": {
+			"freq": 1,
+			"importance": 131
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "رؤيتها",
+		"score": {
+			"freq": 1,
+			"importance": 132
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "عطلة",
+		"score": {
+			"freq": 1,
+			"importance": 133
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "نهاية",
+		"score": {
+			"freq": 1,
+			"importance": 134
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الاسبوع",
+		"score": {
+			"freq": 1,
+			"importance": 135
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بشدة",
+		"score": {
+			"freq": 1,
+			"importance": 136
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تعلم",
+		"score": {
+			"freq": 1,
+			"importance": 137
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "بأننها",
+		"score": {
+			"freq": 1,
+			"importance": 138
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "تدوخني",
+		"score": {
+			"freq": 1,
+			"importance": 139
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لأنها",
+		"score": {
+			"freq": 1,
+			"importance": 140
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "مدهشة",
+		"score": {
+			"freq": 1,
+			"importance": 141
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "والآن",
+		"score": {
+			"freq": 1,
+			"importance": 142
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "يتحطم",
+		"score": {
+			"freq": 1,
+			"importance": 143
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ولكني",
+		"score": {
+			"freq": 1,
+			"importance": 144
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "زلت",
+		"score": {
+			"freq": 1,
+			"importance": 145
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "لقد",
+		"score": {
+			"freq": 5,
+			"importance": 146
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "رحلت,",
+		"score": {
+			"freq": 1,
+			"importance": 147
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "اجل",
+		"score": {
+			"freq": 12,
+			"importance": 148
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "رحلت",
+		"score": {
+			"freq": 3,
+			"importance": 149
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كلياً,",
+		"score": {
+			"freq": 1,
+			"importance": 150
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "الآن",
+		"score": {
+			"freq": 2,
+			"importance": 151
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "رحت",
+		"score": {
+			"freq": 1,
+			"importance": 152
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كلياً",
+		"score": {
+			"freq": 1,
+			"importance": 153
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "كلياَ",
+		"score": {
+			"freq": 1,
+			"importance": 154
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	}
+]

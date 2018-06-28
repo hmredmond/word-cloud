@@ -1,0 +1,3885 @@
+[
+	{
+		"word": "Det",
+		"score": {
+			"freq": 3,
+			"importance": 0
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "var",
+		"score": {
+			"freq": 27,
+			"importance": 1
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "en",
+		"score": {
+			"freq": 11,
+			"importance": 2
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gang",
+		"score": {
+			"freq": 2,
+			"importance": 3
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "konge",
+		"score": {
+			"freq": 2,
+			"importance": 4
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "som",
+		"score": {
+			"freq": 13,
+			"importance": 5
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blitt",
+		"score": {
+			"freq": 1,
+			"importance": 6
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "enkemann",
+		"score": {
+			"freq": 1,
+			"importance": 7
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Etter",
+		"score": {
+			"freq": 1,
+			"importance": 8
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dronningen",
+		"score": {
+			"freq": 9,
+			"importance": 9
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sin",
+		"score": {
+			"freq": 2,
+			"importance": 10
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hadde",
+		"score": {
+			"freq": 9,
+			"importance": 11
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "han",
+		"score": {
+			"freq": 9,
+			"importance": 12
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "datter",
+		"score": {
+			"freq": 5,
+			"importance": 13
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "",
+		"score": {
+			"freq": 11,
+			"importance": 14
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "så",
+		"score": {
+			"freq": 26,
+			"importance": 15
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "snill",
+		"score": {
+			"freq": 2,
+			"importance": 16
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "og",
+		"score": {
+			"freq": 72,
+			"importance": 17
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vakker",
+		"score": {
+			"freq": 2,
+			"importance": 18
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "at",
+		"score": {
+			"freq": 13,
+			"importance": 19
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ingen",
+		"score": {
+			"freq": 4,
+			"importance": 20
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kunne",
+		"score": {
+			"freq": 9,
+			"importance": 21
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "være",
+		"score": {
+			"freq": 2,
+			"importance": 22
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "snillere",
+		"score": {
+			"freq": 1,
+			"importance": 23
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vakrere",
+		"score": {
+			"freq": 1,
+			"importance": 24
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Han",
+		"score": {
+			"freq": 2,
+			"importance": 25
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gikk",
+		"score": {
+			"freq": 5,
+			"importance": 26
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lenge",
+		"score": {
+			"freq": 2,
+			"importance": 27
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sørget",
+		"score": {
+			"freq": 1,
+			"importance": 28
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "over",
+		"score": {
+			"freq": 4,
+			"importance": 29
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "holdt",
+		"score": {
+			"freq": 4,
+			"importance": 30
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "meget",
+		"score": {
+			"freq": 2,
+			"importance": 31
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "av",
+		"score": {
+			"freq": 14,
+			"importance": 32
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "men",
+		"score": {
+			"freq": 8,
+			"importance": 33
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "til",
+		"score": {
+			"freq": 17,
+			"importance": 34
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sist",
+		"score": {
+			"freq": 2,
+			"importance": 35
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ble",
+		"score": {
+			"freq": 7,
+			"importance": 36
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lei",
+		"score": {
+			"freq": 1,
+			"importance": 37
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "å",
+		"score": {
+			"freq": 14,
+			"importance": 38
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "leve",
+		"score": {
+			"freq": 1,
+			"importance": 39
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "enslig",
+		"score": {
+			"freq": 1,
+			"importance": 40
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "giftet",
+		"score": {
+			"freq": 1,
+			"importance": 41
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "seg",
+		"score": {
+			"freq": 12,
+			"importance": 42
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "igjen",
+		"score": {
+			"freq": 5,
+			"importance": 43
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "med",
+		"score": {
+			"freq": 13,
+			"importance": 44
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "enkedronning",
+		"score": {
+			"freq": 1,
+			"importance": 45
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "også",
+		"score": {
+			"freq": 3,
+			"importance": 46
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hennes",
+		"score": {
+			"freq": 3,
+			"importance": 47
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "likeså",
+		"score": {
+			"freq": 1,
+			"importance": 48
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stygg",
+		"score": {
+			"freq": 1,
+			"importance": 49
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slem",
+		"score": {
+			"freq": 2,
+			"importance": 50
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "den",
+		"score": {
+			"freq": 17,
+			"importance": 51
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "andre",
+		"score": {
+			"freq": 3,
+			"importance": 52
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Stemoren",
+		"score": {
+			"freq": 1,
+			"importance": 53
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "datteren",
+		"score": {
+			"freq": 2,
+			"importance": 54
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "avindsyke",
+		"score": {
+			"freq": 1,
+			"importance": 55
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "på",
+		"score": {
+			"freq": 11,
+			"importance": 56
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kongsdatteren",
+		"score": {
+			"freq": 10,
+			"importance": 57
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "for",
+		"score": {
+			"freq": 12,
+			"importance": 58
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "det",
+		"score": {
+			"freq": 23,
+			"importance": 59
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hun",
+		"score": {
+			"freq": 33,
+			"importance": 60
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "deilig",
+		"score": {
+			"freq": 1,
+			"importance": 61
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kongen",
+		"score": {
+			"freq": 6,
+			"importance": 62
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hjemme",
+		"score": {
+			"freq": 1,
+			"importance": 63
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "torde",
+		"score": {
+			"freq": 1,
+			"importance": 64
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "de",
+		"score": {
+			"freq": 8,
+			"importance": 65
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ikke",
+		"score": {
+			"freq": 12,
+			"importance": 66
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjøre",
+		"score": {
+			"freq": 2,
+			"importance": 67
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "henne",
+		"score": {
+			"freq": 10,
+			"importance": 68
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "noe",
+		"score": {
+			"freq": 4,
+			"importance": 69
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Om",
+		"score": {
+			"freq": 2,
+			"importance": 70
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stund",
+		"score": {
+			"freq": 1,
+			"importance": 71
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fikk",
+		"score": {
+			"freq": 6,
+			"importance": 72
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "krig",
+		"score": {
+			"freq": 2,
+			"importance": 73
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "annen",
+		"score": {
+			"freq": 2,
+			"importance": 74
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dro",
+		"score": {
+			"freq": 1,
+			"importance": 75
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ut",
+		"score": {
+			"freq": 7,
+			"importance": 76
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "i",
+		"score": {
+			"freq": 22,
+			"importance": 77
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ledning",
+		"score": {
+			"freq": 1,
+			"importance": 78
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "da",
+		"score": {
+			"freq": 5,
+			"importance": 79
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "trodde",
+		"score": {
+			"freq": 2,
+			"importance": 80
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hva",
+		"score": {
+			"freq": 2,
+			"importance": 81
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ville",
+		"score": {
+			"freq": 1,
+			"importance": 82
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "både",
+		"score": {
+			"freq": 4,
+			"importance": 83
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sultet",
+		"score": {
+			"freq": 1,
+			"importance": 84
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slo",
+		"score": {
+			"freq": 1,
+			"importance": 85
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "etter",
+		"score": {
+			"freq": 6,
+			"importance": 86
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hver",
+		"score": {
+			"freq": 1,
+			"importance": 87
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "krok",
+		"score": {
+			"freq": 1,
+			"importance": 88
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Til",
+		"score": {
+			"freq": 1,
+			"importance": 89
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "syntes",
+		"score": {
+			"freq": 2,
+			"importance": 90
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "all",
+		"score": {
+			"freq": 2,
+			"importance": 91
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ting",
+		"score": {
+			"freq": 2,
+			"importance": 92
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "godt",
+		"score": {
+			"freq": 2,
+			"importance": 93
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "satte",
+		"score": {
+			"freq": 1,
+			"importance": 94
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjæte",
+		"score": {
+			"freq": 1,
+			"importance": 95
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Hun",
+		"score": {
+			"freq": 4,
+			"importance": 96
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "buskapen",
+		"score": {
+			"freq": 2,
+			"importance": 97
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjætte",
+		"score": {
+			"freq": 1,
+			"importance": 98
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "skogen",
+		"score": {
+			"freq": 5,
+			"importance": 99
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fjellet",
+		"score": {
+			"freq": 1,
+			"importance": 100
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Mat",
+		"score": {
+			"freq": 1,
+			"importance": 101
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lite",
+		"score": {
+			"freq": 1,
+			"importance": 102
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "eller",
+		"score": {
+			"freq": 1,
+			"importance": 103
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ingenting",
+		"score": {
+			"freq": 2,
+			"importance": 104
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blek",
+		"score": {
+			"freq": 1,
+			"importance": 105
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mager",
+		"score": {
+			"freq": 1,
+			"importance": 106
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nesten",
+		"score": {
+			"freq": 2,
+			"importance": 107
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "alltid",
+		"score": {
+			"freq": 1,
+			"importance": 108
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gråt",
+		"score": {
+			"freq": 2,
+			"importance": 109
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sørgmodig",
+		"score": {
+			"freq": 3,
+			"importance": 110
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "I",
+		"score": {
+			"freq": 1,
+			"importance": 111
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stor",
+		"score": {
+			"freq": 3,
+			"importance": 112
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blå",
+		"score": {
+			"freq": 5,
+			"importance": 113
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stut",
+		"score": {
+			"freq": 2,
+			"importance": 114
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "støtt",
+		"score": {
+			"freq": 1,
+			"importance": 115
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fin",
+		"score": {
+			"freq": 1,
+			"importance": 116
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blank",
+		"score": {
+			"freq": 1,
+			"importance": 117
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kom",
+		"score": {
+			"freq": 8,
+			"importance": 118
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ofte",
+		"score": {
+			"freq": 1,
+			"importance": 119
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bort",
+		"score": {
+			"freq": 3,
+			"importance": 120
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lot",
+		"score": {
+			"freq": 1,
+			"importance": 121
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kjæle",
+		"score": {
+			"freq": 1,
+			"importance": 122
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "En",
+		"score": {
+			"freq": 1,
+			"importance": 123
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "satt",
+		"score": {
+			"freq": 1,
+			"importance": 124
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "utav",
+		"score": {
+			"freq": 1,
+			"importance": 125
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stuten",
+		"score": {
+			"freq": 15,
+			"importance": 126
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "spurte",
+		"score": {
+			"freq": 3,
+			"importance": 127
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hvorfor",
+		"score": {
+			"freq": 1,
+			"importance": 128
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "svarte",
+		"score": {
+			"freq": 1,
+			"importance": 129
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ved",
+		"score": {
+			"freq": 2,
+			"importance": 130
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gråte",
+		"score": {
+			"freq": 2,
+			"importance": 131
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Ja",
+		"score": {
+			"freq": 2,
+			"importance": 132
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sa",
+		"score": {
+			"freq": 9,
+			"importance": 133
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "jeg",
+		"score": {
+			"freq": 2,
+			"importance": 134
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vet",
+		"score": {
+			"freq": 1,
+			"importance": 135
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nok",
+		"score": {
+			"freq": 2,
+			"importance": 136
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "enda",
+		"score": {
+			"freq": 2,
+			"importance": 137
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "du",
+		"score": {
+			"freq": 11,
+			"importance": 138
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vil",
+		"score": {
+			"freq": 4,
+			"importance": 139
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "si",
+		"score": {
+			"freq": 3,
+			"importance": 140
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gråter",
+		"score": {
+			"freq": 2,
+			"importance": 141
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "er",
+		"score": {
+			"freq": 2,
+			"importance": 142
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mot",
+		"score": {
+			"freq": 1,
+			"importance": 143
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "deg",
+		"score": {
+			"freq": 5,
+			"importance": 144
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fordi",
+		"score": {
+			"freq": 1,
+			"importance": 145
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sulte",
+		"score": {
+			"freq": 1,
+			"importance": 146
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hjel",
+		"score": {
+			"freq": 1,
+			"importance": 147
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Men",
+		"score": {
+			"freq": 4,
+			"importance": 148
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mat",
+		"score": {
+			"freq": 2,
+			"importance": 149
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "har",
+		"score": {
+			"freq": 1,
+			"importance": 150
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nødig",
+		"score": {
+			"freq": 1,
+			"importance": 151
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sørge",
+		"score": {
+			"freq": 1,
+			"importance": 152
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "venstre",
+		"score": {
+			"freq": 1,
+			"importance": 153
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "øret",
+		"score": {
+			"freq": 2,
+			"importance": 154
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mitt",
+		"score": {
+			"freq": 1,
+			"importance": 155
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ligger",
+		"score": {
+			"freq": 1,
+			"importance": 156
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "duk",
+		"score": {
+			"freq": 1,
+			"importance": 157
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "når",
+		"score": {
+			"freq": 1,
+			"importance": 158
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "tar",
+		"score": {
+			"freq": 1,
+			"importance": 159
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "brer",
+		"score": {
+			"freq": 1,
+			"importance": 160
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kan",
+		"score": {
+			"freq": 1,
+			"importance": 161
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "få",
+		"score": {
+			"freq": 1,
+			"importance": 162
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mange",
+		"score": {
+			"freq": 3,
+			"importance": 163
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "retter",
+		"score": {
+			"freq": 3,
+			"importance": 164
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjorde",
+		"score": {
+			"freq": 3,
+			"importance": 165
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "tok",
+		"score": {
+			"freq": 3,
+			"importance": 166
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "duken",
+		"score": {
+			"freq": 3,
+			"importance": 167
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bredde",
+		"score": {
+			"freq": 2,
+			"importance": 168
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gulvet",
+		"score": {
+			"freq": 1,
+			"importance": 169
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "disket",
+		"score": {
+			"freq": 2,
+			"importance": 170
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "opp",
+		"score": {
+			"freq": 4,
+			"importance": 171
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fineste",
+		"score": {
+			"freq": 1,
+			"importance": 172
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "noen",
+		"score": {
+			"freq": 2,
+			"importance": 173
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ønske",
+		"score": {
+			"freq": 1,
+			"importance": 174
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vin",
+		"score": {
+			"freq": 1,
+			"importance": 175
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "mjød",
+		"score": {
+			"freq": 1,
+			"importance": 176
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "søtkake",
+		"score": {
+			"freq": 1,
+			"importance": 177
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nå",
+		"score": {
+			"freq": 5,
+			"importance": 178
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "snart",
+		"score": {
+			"freq": 2,
+			"importance": 179
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hold",
+		"score": {
+			"freq": 1,
+			"importance": 180
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "rød",
+		"score": {
+			"freq": 1,
+			"importance": 181
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "rund",
+		"score": {
+			"freq": 1,
+			"importance": 182
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hvit",
+		"score": {
+			"freq": 1,
+			"importance": 183
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "tørrskranglete",
+		"score": {
+			"freq": 1,
+			"importance": 184
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bleke",
+		"score": {
+			"freq": 1,
+			"importance": 185
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sinne",
+		"score": {
+			"freq": 1,
+			"importance": 186
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Dronningen",
+		"score": {
+			"freq": 1,
+			"importance": 187
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slett",
+		"score": {
+			"freq": 1,
+			"importance": 188
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "skjønne",
+		"score": {
+			"freq": 1,
+			"importance": 189
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hvordan",
+		"score": {
+			"freq": 3,
+			"importance": 190
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stedatteren",
+		"score": {
+			"freq": 1,
+			"importance": 191
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "komme",
+		"score": {
+			"freq": 3,
+			"importance": 192
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "se",
+		"score": {
+			"freq": 3,
+			"importance": 193
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dårlig",
+		"score": {
+			"freq": 1,
+			"importance": 194
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kost",
+		"score": {
+			"freq": 1,
+			"importance": 195
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "terne",
+		"score": {
+			"freq": 1,
+			"importance": 196
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "skulle",
+		"score": {
+			"freq": 7,
+			"importance": 197
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gå",
+		"score": {
+			"freq": 1,
+			"importance": 198
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "passe",
+		"score": {
+			"freq": 1,
+			"importance": 199
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hang",
+		"score": {
+			"freq": 2,
+			"importance": 200
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hop",
+		"score": {
+			"freq": 1,
+			"importance": 201
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "tjenestefolkene",
+		"score": {
+			"freq": 1,
+			"importance": 202
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ga",
+		"score": {
+			"freq": 2,
+			"importance": 203
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Jenta",
+		"score": {
+			"freq": 1,
+			"importance": 204
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "passet",
+		"score": {
+			"freq": 1,
+			"importance": 205
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gildeste",
+		"score": {
+			"freq": 1,
+			"importance": 206
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gode",
+		"score": {
+			"freq": 1,
+			"importance": 207
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "jenta",
+		"score": {
+			"freq": 1,
+			"importance": 208
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hjem",
+		"score": {
+			"freq": 3,
+			"importance": 209
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Nå",
+		"score": {
+			"freq": 1,
+			"importance": 210
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vunnet",
+		"score": {
+			"freq": 1,
+			"importance": 211
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vært",
+		"score": {
+			"freq": 1,
+			"importance": 212
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "glede",
+		"score": {
+			"freq": 1,
+			"importance": 213
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hele",
+		"score": {
+			"freq": 2,
+			"importance": 214
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slottet",
+		"score": {
+			"freq": 1,
+			"importance": 215
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gladere",
+		"score": {
+			"freq": 1,
+			"importance": 216
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "enn",
+		"score": {
+			"freq": 1,
+			"importance": 217
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kongens",
+		"score": {
+			"freq": 1,
+			"importance": 218
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "la",
+		"score": {
+			"freq": 1,
+			"importance": 219
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "syk",
+		"score": {
+			"freq": 2,
+			"importance": 220
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "doktoren",
+		"score": {
+			"freq": 3,
+			"importance": 221
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "penger",
+		"score": {
+			"freq": 1,
+			"importance": 222
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "forat",
+		"score": {
+			"freq": 1,
+			"importance": 223
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bli",
+		"score": {
+			"freq": 2,
+			"importance": 224
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "frisk",
+		"score": {
+			"freq": 2,
+			"importance": 225
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "uten",
+		"score": {
+			"freq": 1,
+			"importance": 226
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kjøtt",
+		"score": {
+			"freq": 2,
+			"importance": 227
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ete",
+		"score": {
+			"freq": 1,
+			"importance": 228
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Både",
+		"score": {
+			"freq": 1,
+			"importance": 229
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "folkene",
+		"score": {
+			"freq": 2,
+			"importance": 230
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "om",
+		"score": {
+			"freq": 1,
+			"importance": 231
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "annet",
+		"score": {
+			"freq": 1,
+			"importance": 232
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hjelpe",
+		"score": {
+			"freq": 1,
+			"importance": 233
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ba",
+		"score": {
+			"freq": 1,
+			"importance": 234
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "alle",
+		"score": {
+			"freq": 3,
+			"importance": 235
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fantes",
+		"score": {
+			"freq": 1,
+			"importance": 236
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "make",
+		"score": {
+			"freq": 1,
+			"importance": 237
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "riket",
+		"score": {
+			"freq": 1,
+			"importance": 238
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nei",
+		"score": {
+			"freq": 1,
+			"importance": 239
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "måtte",
+		"score": {
+			"freq": 1,
+			"importance": 240
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slaktes",
+		"score": {
+			"freq": 3,
+			"importance": 241
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "råd",
+		"score": {
+			"freq": 2,
+			"importance": 242
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Da",
+		"score": {
+			"freq": 2,
+			"importance": 243
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hørte",
+		"score": {
+			"freq": 1,
+			"importance": 244
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ille",
+		"score": {
+			"freq": 1,
+			"importance": 245
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ned",
+		"score": {
+			"freq": 2,
+			"importance": 246
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fjøset",
+		"score": {
+			"freq": 2,
+			"importance": 247
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Den",
+		"score": {
+			"freq": 1,
+			"importance": 248
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sto",
+		"score": {
+			"freq": 1,
+			"importance": 249
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "der",
+		"score": {
+			"freq": 1,
+			"importance": 250
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hodet",
+		"score": {
+			"freq": 1,
+			"importance": 251
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "skar",
+		"score": {
+			"freq": 1,
+			"importance": 252
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Hva",
+		"score": {
+			"freq": 1,
+			"importance": 253
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "for?",
+		"score": {
+			"freq": 1,
+			"importance": 254
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Så",
+		"score": {
+			"freq": 1,
+			"importance": 255
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kommet",
+		"score": {
+			"freq": 1,
+			"importance": 256
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lagt",
+		"score": {
+			"freq": 2,
+			"importance": 257
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fått",
+		"score": {
+			"freq": 1,
+			"importance": 258
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dersom",
+		"score": {
+			"freq": 1,
+			"importance": 259
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Får",
+		"score": {
+			"freq": 1,
+			"importance": 260
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "først",
+		"score": {
+			"freq": 1,
+			"importance": 261
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "livet",
+		"score": {
+			"freq": 1,
+			"importance": 262
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "meg",
+		"score": {
+			"freq": 2,
+			"importance": 263
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dreper",
+		"score": {
+			"freq": 1,
+			"importance": 264
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "reiser",
+		"score": {
+			"freq": 1,
+			"importance": 265
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vi",
+		"score": {
+			"freq": 2,
+			"importance": 266
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vår",
+		"score": {
+			"freq": 1,
+			"importance": 267
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vei",
+		"score": {
+			"freq": 1,
+			"importance": 268
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "natt",
+		"score": {
+			"freq": 1,
+			"importance": 269
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vondt",
+		"score": {
+			"freq": 1,
+			"importance": 270
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "reise",
+		"score": {
+			"freq": 1,
+			"importance": 271
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fra",
+		"score": {
+			"freq": 2,
+			"importance": 272
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "far",
+		"score": {
+			"freq": 1,
+			"importance": 273
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "verre",
+		"score": {
+			"freq": 1,
+			"importance": 274
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hus",
+		"score": {
+			"freq": 1,
+			"importance": 275
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lovte",
+		"score": {
+			"freq": 1,
+			"importance": 276
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kvelden",
+		"score": {
+			"freq": 1,
+			"importance": 277
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stiltret",
+		"score": {
+			"freq": 1,
+			"importance": 278
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ryggen",
+		"score": {
+			"freq": 2,
+			"importance": 279
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fór",
+		"score": {
+			"freq": 2,
+			"importance": 280
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "avgårde",
+		"score": {
+			"freq": 1,
+			"importance": 281
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "forteste",
+		"score": {
+			"freq": 1,
+			"importance": 282
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "otta",
+		"score": {
+			"freq": 1,
+			"importance": 283
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "neste",
+		"score": {
+			"freq": 1,
+			"importance": 284
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dagen",
+		"score": {
+			"freq": 1,
+			"importance": 285
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slakte",
+		"score": {
+			"freq": 1,
+			"importance": 286
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vekk",
+		"score": {
+			"freq": 1,
+			"importance": 287
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "borte",
+		"score": {
+			"freq": 1,
+			"importance": 288
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sendte",
+		"score": {
+			"freq": 1,
+			"importance": 289
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bud",
+		"score": {
+			"freq": 1,
+			"importance": 290
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kanter",
+		"score": {
+			"freq": 1,
+			"importance": 291
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lete",
+		"score": {
+			"freq": 1,
+			"importance": 292
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "dem",
+		"score": {
+			"freq": 4,
+			"importance": 293
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "lyste",
+		"score": {
+			"freq": 1,
+			"importance": 294
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kirkebakken",
+		"score": {
+			"freq": 1,
+			"importance": 295
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "sett",
+		"score": {
+			"freq": 1,
+			"importance": 296
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Imens",
+		"score": {
+			"freq": 1,
+			"importance": 297
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjennom",
+		"score": {
+			"freq": 1,
+			"importance": 298
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "land",
+		"score": {
+			"freq": 1,
+			"importance": 299
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kobberskog",
+		"score": {
+			"freq": 1,
+			"importance": 300
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "trær",
+		"score": {
+			"freq": 1,
+			"importance": 301
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "grener",
+		"score": {
+			"freq": 1,
+			"importance": 302
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blad",
+		"score": {
+			"freq": 3,
+			"importance": 303
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "blomster",
+		"score": {
+			"freq": 1,
+			"importance": 304
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kobber",
+		"score": {
+			"freq": 1,
+			"importance": 305
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "før",
+		"score": {
+			"freq": 1,
+			"importance": 306
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "reiste",
+		"score": {
+			"freq": 1,
+			"importance": 307
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "inn",
+		"score": {
+			"freq": 2,
+			"importance": 308
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kongsdatteren:",
+		"score": {
+			"freq": 1,
+			"importance": 309
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Når",
+		"score": {
+			"freq": 1,
+			"importance": 310
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kommer",
+		"score": {
+			"freq": 1,
+			"importance": 311
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "må",
+		"score": {
+			"freq": 1,
+			"importance": 312
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ta",
+		"score": {
+			"freq": 2,
+			"importance": 313
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vel",
+		"score": {
+			"freq": 2,
+			"importance": 314
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "akt",
+		"score": {
+			"freq": 1,
+			"importance": 315
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "røret",
+		"score": {
+			"freq": 1,
+			"importance": 316
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "et",
+		"score": {
+			"freq": 3,
+			"importance": 317
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "engang",
+		"score": {
+			"freq": 1,
+			"importance": 318
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ellers",
+		"score": {
+			"freq": 1,
+			"importance": 319
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "ute",
+		"score": {
+			"freq": 1,
+			"importance": 320
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "her",
+		"score": {
+			"freq": 1,
+			"importance": 321
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bor",
+		"score": {
+			"freq": 1,
+			"importance": 322
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "troll",
+		"score": {
+			"freq": 1,
+			"importance": 323
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "tre",
+		"score": {
+			"freq": 1,
+			"importance": 324
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hoder",
+		"score": {
+			"freq": 1,
+			"importance": 325
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "eier",
+		"score": {
+			"freq": 1,
+			"importance": 326
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Nei",
+		"score": {
+			"freq": 1,
+			"importance": 327
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "kors",
+		"score": {
+			"freq": 1,
+			"importance": 328
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "vare",
+		"score": {
+			"freq": 1,
+			"importance": 329
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "røre",
+		"score": {
+			"freq": 1,
+			"importance": 330
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "forsiktig",
+		"score": {
+			"freq": 1,
+			"importance": 331
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bøyde",
+		"score": {
+			"freq": 1,
+			"importance": 332
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "side",
+		"score": {
+			"freq": 1,
+			"importance": 333
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "grenene",
+		"score": {
+			"freq": 1,
+			"importance": 334
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "skjøv",
+		"score": {
+			"freq": 1,
+			"importance": 335
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hendene",
+		"score": {
+			"freq": 1,
+			"importance": 336
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "trangskoget",
+		"score": {
+			"freq": 1,
+			"importance": 337
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "fram",
+		"score": {
+			"freq": 1,
+			"importance": 338
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "stelte",
+		"score": {
+			"freq": 1,
+			"importance": 339
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "likevel",
+		"score": {
+			"freq": 1,
+			"importance": 340
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "rive",
+		"score": {
+			"freq": 1,
+			"importance": 341
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "hånden",
+		"score": {
+			"freq": 1,
+			"importance": 342
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "Au",
+		"score": {
+			"freq": 1,
+			"importance": 343
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "au",
+		"score": {
+			"freq": 1,
+			"importance": 344
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "nå?",
+		"score": {
+			"freq": 1,
+			"importance": 345
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjelder",
+		"score": {
+			"freq": 1,
+			"importance": 346
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "slåss",
+		"score": {
+			"freq": 1,
+			"importance": 347
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "liv",
+		"score": {
+			"freq": 1,
+			"importance": 348
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "død",
+		"score": {
+			"freq": 1,
+			"importance": 349
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "gjem",
+		"score": {
+			"freq": 1,
+			"importance": 350
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bare",
+		"score": {
+			"freq": 1,
+			"importance": 351
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "bladet",
+		"score": {
+			"freq": 1,
+			"importance": 352
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	}
+]

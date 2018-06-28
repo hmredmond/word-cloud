@@ -1,0 +1,13 @@
+svg text{
+    fill: red;
+    padding:5px;
+    
+}
+svg text:hover{
+    cursor: pointer;
+}
+
+svg text:focus {
+    fill: blue;
+    outline: 1px solid blue;
+  }

@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+
+
+.App {
+  text-align: center;
+  min-width:400px;
+  
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+svg{
+  margin-top:50px;
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:50px;
+  max-width:100%;
+}
+.control-bar{
+  padding: 10px;
+    position: absolute;
+    top: -20px;
+    left: 0;
+    text-align: left;
+    width: 175px;
+    color: white;
+    z-index: 999;
+}
+.control-bar h2{margin:10px 0}
+
+.control-bar select{
+  margin-right:25px;
+}
+.control-bar .invertedControl{
+  font-size: 14px;
+  color: black;
+  margin-top: 10px;
+  display: inline-block;
+}
+.control-bar label{
+  margin-right:10px;    
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+
+.inverted-grey svg{
+  background: black
+}
+
+.inverted-grey svg text{
+  fill : white!important;
+}
+
+.yellow-on-black svg{
+  background: black
+}
+
+.yellow-on-black svg text{
+  fill : yellow!important;
+}
+
+.inverted-colour svg{
+  background: black
+}
+
+.inverted-colour svg text{
+  fill : #6be2e1!important;
+}
