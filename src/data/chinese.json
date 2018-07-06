@@ -1,0 +1,1718 @@
+[
+	{
+		"word": "远",
+		"score": {
+			"freq": 1,
+			"importance": 0
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "出",
+		"score": {
+			"freq": 1,
+			"importance": 1
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "在",
+		"score": {
+			"freq": 6,
+			"importance": 2
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "该",
+		"score": {
+			"freq": 20,
+			"importance": 3
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "未知",
+		"score": {
+			"freq": 1,
+			"importance": 4
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "死水",
+		"score": {
+			"freq": 1,
+			"importance": 5
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "的",
+		"score": {
+			"freq": 15,
+			"importance": 6
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "过时的",
+		"score": {
+			"freq": 1,
+			"importance": 7
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "结束",
+		"score": {
+			"freq": 1,
+			"importance": 8
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "西",
+		"score": {
+			"freq": 1,
+			"importance": 9
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "螺旋",
+		"score": {
+			"freq": 1,
+			"importance": 10
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "臂",
+		"score": {
+			"freq": 1,
+			"importance": 11
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "星系",
+		"score": {
+			"freq": 1,
+			"importance": 12
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "谎",
+		"score": {
+			"freq": 1,
+			"importance": 13
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "一个",
+		"score": {
+			"freq": 14,
+			"importance": 14
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "小",
+		"score": {
+			"freq": 5,
+			"importance": 15
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "黄色",
+		"score": {
+			"freq": 1,
+			"importance": 16
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "太阳",
+		"score": {
+			"freq": 1,
+			"importance": 17
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "轨道",
+		"score": {
+			"freq": 1,
+			"importance": 18
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "这个",
+		"score": {
+			"freq": 7,
+			"importance": 19
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "距离",
+		"score": {
+			"freq": 1,
+			"importance": 20
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "大致",
+		"score": {
+			"freq": 1,
+			"importance": 21
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "92",
+		"score": {
+			"freq": 1,
+			"importance": 22
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "百万",
+		"score": {
+			"freq": 1,
+			"importance": 23
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "英里",
+		"score": {
+			"freq": 1,
+			"importance": 24
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "是",
+		"score": {
+			"freq": 24,
+			"importance": 25
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "完全",
+		"score": {
+			"freq": 1,
+			"importance": 26
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "微不足道",
+		"score": {
+			"freq": 1,
+			"importance": 27
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "蓝色",
+		"score": {
+			"freq": 1,
+			"importance": 28
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "绿色",
+		"score": {
+			"freq": 3,
+			"importance": 29
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "行星",
+		"score": {
+			"freq": 2,
+			"importance": 30
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "谁的",
+		"score": {
+			"freq": 1,
+			"importance": 31
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "猿-",
+		"score": {
+			"freq": 1,
+			"importance": 32
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "下降",
+		"score": {
+			"freq": 1,
+			"importance": 33
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "生活",
+		"score": {
+			"freq": 1,
+			"importance": 34
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "形式",
+		"score": {
+			"freq": 1,
+			"importance": 35
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "所以",
+		"score": {
+			"freq": 2,
+			"importance": 36
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "令人惊讶",
+		"score": {
+			"freq": 1,
+			"importance": 37
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "原始",
+		"score": {
+			"freq": 1,
+			"importance": 38
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "那",
+		"score": {
+			"freq": 7,
+			"importance": 39
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "他们",
+		"score": {
+			"freq": 3,
+			"importance": 40
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "仍然",
+		"score": {
+			"freq": 1,
+			"importance": 41
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "认为",
+		"score": {
+			"freq": 1,
+			"importance": 42
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "数字",
+		"score": {
+			"freq": 2,
+			"importance": 43
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "手表",
+		"score": {
+			"freq": 2,
+			"importance": 44
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "漂亮",
+		"score": {
+			"freq": 2,
+			"importance": 45
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "整齐",
+		"score": {
+			"freq": 1,
+			"importance": 46
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "理念",
+		"score": {
+			"freq": 2,
+			"importance": 47
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "具有",
+		"score": {
+			"freq": 1,
+			"importance": 48
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "要么",
+		"score": {
+			"freq": 1,
+			"importance": 49
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "宁",
+		"score": {
+			"freq": 1,
+			"importance": 50
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "有",
+		"score": {
+			"freq": 7,
+			"importance": 51
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "问题",
+		"score": {
+			"freq": 3,
+			"importance": 52
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "哪一个",
+		"score": {
+			"freq": 2,
+			"importance": 53
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "最",
+		"score": {
+			"freq": 3,
+			"importance": 54
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "人",
+		"score": {
+			"freq": 4,
+			"importance": 55
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "活的",
+		"score": {
+			"freq": 1,
+			"importance": 56
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "上",
+		"score": {
+			"freq": 3,
+			"importance": 57
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "它",
+		"score": {
+			"freq": 8,
+			"importance": 58
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "不快乐",
+		"score": {
+			"freq": 2,
+			"importance": 59
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "对于",
+		"score": {
+			"freq": 4,
+			"importance": 60
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "许多",
+		"score": {
+			"freq": 3,
+			"importance": 61
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "时间",
+		"score": {
+			"freq": 3,
+			"importance": 62
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "解决方案",
+		"score": {
+			"freq": 1,
+			"importance": 63
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "建议",
+		"score": {
+			"freq": 2,
+			"importance": 64
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "但",
+		"score": {
+			"freq": 2,
+			"importance": 65
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "这些",
+		"score": {
+			"freq": 1,
+			"importance": 66
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "大部分",
+		"score": {
+			"freq": 1,
+			"importance": 67
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "关心",
+		"score": {
+			"freq": 1,
+			"importance": 68
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "同",
+		"score": {
+			"freq": 2,
+			"importance": 69
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "运动",
+		"score": {
+			"freq": 1,
+			"importance": 70
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "件",
+		"score": {
+			"freq": 2,
+			"importance": 71
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "纸",
+		"score": {
+			"freq": 2,
+			"importance": 72
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "奇",
+		"score": {
+			"freq": 1,
+			"importance": 73
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "因为",
+		"score": {
+			"freq": 1,
+			"importance": 74
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "整个",
+		"score": {
+			"freq": 1,
+			"importance": 75
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "不",
+		"score": {
+			"freq": 2,
+			"importance": 76
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "和",
+		"score": {
+			"freq": 9,
+			"importance": 77
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "保持",
+		"score": {
+			"freq": 1,
+			"importance": 78
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "地段",
+		"score": {
+			"freq": 1,
+			"importance": 79
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "意思",
+		"score": {
+			"freq": 1,
+			"importance": 80
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "惨",
+		"score": {
+			"freq": 1,
+			"importance": 81
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "甚至",
+		"score": {
+			"freq": 2,
+			"importance": 82
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "那些",
+		"score": {
+			"freq": 1,
+			"importance": 83
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "日益",
+		"score": {
+			"freq": 1,
+			"importance": 84
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "意见",
+		"score": {
+			"freq": 1,
+			"importance": 85
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "所有",
+		"score": {
+			"freq": 2,
+			"importance": 86
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "制作",
+		"score": {
+			"freq": 2,
+			"importance": 87
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "大",
+		"score": {
+			"freq": 2,
+			"importance": 88
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "错误",
+		"score": {
+			"freq": 2,
+			"importance": 89
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "未来",
+		"score": {
+			"freq": 1,
+			"importance": 90
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "下",
+		"score": {
+			"freq": 1,
+			"importance": 91
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "从",
+		"score": {
+			"freq": 1,
+			"importance": 92
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "树木",
+		"score": {
+			"freq": 2,
+			"importance": 93
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "第一",
+		"score": {
+			"freq": 1,
+			"importance": 94
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "地点",
+		"score": {
+			"freq": 2,
+			"importance": 95
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "一些",
+		"score": {
+			"freq": 2,
+			"importance": 96
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "坏",
+		"score": {
+			"freq": 1,
+			"importance": 97
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "移动",
+		"score": {
+			"freq": 1,
+			"importance": 98
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "没有",
+		"score": {
+			"freq": 2,
+			"importance": 99
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "一",
+		"score": {
+			"freq": 4,
+			"importance": 100
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "应该",
+		"score": {
+			"freq": 1,
+			"importance": 101
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "曾经",
+		"score": {
+			"freq": 1,
+			"importance": 102
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "剩下",
+		"score": {
+			"freq": 1,
+			"importance": 103
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "海洋",
+		"score": {
+			"freq": 1,
+			"importance": 104
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "然后",
+		"score": {
+			"freq": 1,
+			"importance": 105
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "星期四",
+		"score": {
+			"freq": 1,
+			"importance": 106
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "几乎",
+		"score": {
+			"freq": 1,
+			"importance": 107
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "二",
+		"score": {
+			"freq": 1,
+			"importance": 108
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "千",
+		"score": {
+			"freq": 1,
+			"importance": 109
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "年份",
+		"score": {
+			"freq": 1,
+			"importance": 110
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "后",
+		"score": {
+			"freq": 1,
+			"importance": 111
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "钉",
+		"score": {
+			"freq": 2,
+			"importance": 112
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "至",
+		"score": {
+			"freq": 7,
+			"importance": 113
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "树",
+		"score": {
+			"freq": 1,
+			"importance": 114
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "话",
+		"score": {
+			"freq": 1,
+			"importance": 115
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "怎么样",
+		"score": {
+			"freq": 2,
+			"importance": 116
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "将",
+		"score": {
+			"freq": 3,
+			"importance": 117
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "不错",
+		"score": {
+			"freq": 1,
+			"importance": 118
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "更改",
+		"score": {
+			"freq": 1,
+			"importance": 119
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "女孩",
+		"score": {
+			"freq": 1,
+			"importance": 120
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "坐在",
+		"score": {
+			"freq": 1,
+			"importance": 121
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "她的",
+		"score": {
+			"freq": 2,
+			"importance": 122
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "拥有",
+		"score": {
+			"freq": 1,
+			"importance": 123
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "咖啡店",
+		"score": {
+			"freq": 1,
+			"importance": 124
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "英国",
+		"score": {
+			"freq": 1,
+			"importance": 125
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "突然",
+		"score": {
+			"freq": 1,
+			"importance": 126
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "实现",
+		"score": {
+			"freq": 1,
+			"importance": 127
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "什么",
+		"score": {
+			"freq": 2,
+			"importance": 128
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "去",
+		"score": {
+			"freq": 1,
+			"importance": 129
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "她",
+		"score": {
+			"freq": 2,
+			"importance": 130
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "最后",
+		"score": {
+			"freq": 1,
+			"importance": 131
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "知道",
+		"score": {
+			"freq": 1,
+			"importance": 132
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "世界",
+		"score": {
+			"freq": 1,
+			"importance": 133
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "可以",
+		"score": {
+			"freq": 2,
+			"importance": 134
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "好",
+		"score": {
+			"freq": 1,
+			"importance": 135
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "快乐",
+		"score": {
+			"freq": 1,
+			"importance": 136
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "对",
+		"score": {
+			"freq": 1,
+			"importance": 137
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "工作",
+		"score": {
+			"freq": 1,
+			"importance": 138
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "得到",
+		"score": {
+			"freq": 2,
+			"importance": 139
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "可悲的是",
+		"score": {
+			"freq": 1,
+			"importance": 140
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "然而",
+		"score": {
+			"freq": 1,
+			"importance": 141
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "之前",
+		"score": {
+			"freq": 1,
+			"importance": 142
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "电话",
+		"score": {
+			"freq": 1,
+			"importance": 143
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "告诉",
+		"score": {
+			"freq": 1,
+			"importance": 144
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "任何人",
+		"score": {
+			"freq": 1,
+			"importance": 145
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "关于",
+		"score": {
+			"freq": 1,
+			"importance": 146
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "可怕",
+		"score": {
+			"freq": 2,
+			"importance": 147
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "笨",
+		"score": {
+			"freq": 2,
+			"importance": 148
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "灾难",
+		"score": {
+			"freq": 2,
+			"importance": 149
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "发生",
+		"score": {
+			"freq": 1,
+			"importance": 150
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "丢失",
+		"score": {
+			"freq": 1,
+			"importance": 151
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "永远",
+		"score": {
+			"freq": 1,
+			"importance": 152
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "故事",
+		"score": {
+			"freq": 2,
+			"importance": 153
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "它的",
+		"score": {
+			"freq": 1,
+			"importance": 154
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	},
+	{
+		"word": "后果",
+		"score": {
+			"freq": 1,
+			"importance": 155
+		},
+		"translation": {
+			"eng": "ENGLISH"
+		},
+		"visible": true
+	}
+]

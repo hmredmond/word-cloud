@@ -194,7 +194,7 @@ class WordCloud extends Component {
                 let layout = this.state.layout[textKey][scoreKey]
                 let flag = false
                 for (let i = 0; i < layout.length; ++i) {
-                    if (layout[i].visible != nextProps.data[layout[i].index].visible) {
+                    if (layout[i].visible !== nextProps.data[layout[i].index].visible) {
                         flag = true
                         break
                     }
@@ -206,7 +206,7 @@ class WordCloud extends Component {
         }
     }
     updateFocusDescription(index, text) {
-        let current = this.state.layout.__text__.freq.find(item => item.text == text);
+        let current = this.state.layout.__text__.freq.find(item => item.text === text);
         let output = current.text + " with score " + current.value;
         if (this.state !== undefined) {
             this.setState(prevState => ({ accessibleContentDescription: output }))

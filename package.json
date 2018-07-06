@@ -4,10 +4,10 @@
   "description": "React NPM library starter kit based on Facebook's create react app",
   "main": "build/index.js",
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
-    "demo": "node scripts/demo.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -59,6 +59,7 @@
     "react": "^16.4.1",
     "react-dev-utils": "^4.2.1",
     "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
     "style-loader": "0.19.0",
     "sw-precache-webpack-plugin": "0.11.4",
     "url-loader": "0.6.2",
